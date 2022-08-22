@@ -1,0 +1,4 @@
+﻿  Date.cpp
+E:\visual studio\03.09.2021 programming 2\laboratory 09.03.2021\Date.cpp(51): warning C4715: 'operator<<': not all control paths return a value
+E:\visual studio\03.09.2021 programming 2\laboratory 09.03.2021\Date.cpp(92): warning C4715: 'operator>>': not all control paths return a value
+  laboratory 09.03.2021.vcxproj -> E:\visual studio\03.09.2021 programming 2\Debug\laboratory 09.03.2021.exe

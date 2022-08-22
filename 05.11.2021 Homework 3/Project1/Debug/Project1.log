@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\visual studio\05.11.2021 Homework 3\Project1\staff.h(92): warning C4715: 'Staff::operator+=': not all control paths return a value
+E:\visual studio\05.11.2021 Homework 3\Project1\Manager.h(89): warning C4715: 'Manager::operator+=': not all control paths return a value
+E:\visual studio\05.11.2021 Homework 3\Project1\Boss.h(108): warning C4715: 'Boss::operator+=': not all control paths return a value
+  Project1.vcxproj -> E:\visual studio\05.11.2021 Homework 3\Debug\Project1.exe

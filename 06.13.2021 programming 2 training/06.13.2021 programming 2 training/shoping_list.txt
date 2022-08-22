@@ -1,0 +1,6 @@
+Article Name: Carrot(weight: 0.7) Price (per kg): 1.2 Price (0.7 kg): 0.84
+Article Name: Milk Price: 3.2
+Article Name: Potatoes(weight: 2.5) Price (per kg): 3.4 Price (2.5 kg): 8.5
+Article Name: Bread Price: 3.5
+Article Name: Tomatos(weight: 1.5) Price (per kg): 5.4 Price (1.5 kg): 8.1
+Article Name: Chocolate Price: 7.9

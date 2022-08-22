@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+E:\visual studio\Graph isomorphism\Graph isomorphism\Graph.cpp(5,1): warning C4005: 'MAX': macro redefinition
+E:\visual studio\Graph isomorphism\Graph isomorphism\Graph.h(6): message : see previous definition of 'MAX'
+  main.cpp
+  Generating Code...
+  Graph isomorphism.vcxproj -> E:\visual studio\Graph isomorphism\Debug\Graph isomorphism.exe

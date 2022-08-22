@@ -1,0 +1,19 @@
+﻿  sortedPlaylist.cpp
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(90,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(90,49): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(97,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(97,50): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(107,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(107,49): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(114,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(114,50): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(126,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(126,50): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(133,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(133,49): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(143,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(143,50): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(150,16): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(150,49): warning C4018: '<': signed/unsigned mismatch
+E:\visual studio\06.05.2021 programming 2\06.05.2021 programming 2\sortedPlaylist.cpp(158): warning C4715: '<lambda_68141673ce7616e0349fed3575180743>::operator()': not all control paths return a value
+  06.05.2021 programming 2.vcxproj -> E:\visual studio\06.05.2021 programming 2\Debug\06.05.2021 programming 2.exe
